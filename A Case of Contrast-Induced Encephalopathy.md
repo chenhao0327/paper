@@ -5,13 +5,10 @@ Cardiac catheterization, performed via the right radial artery, showed angiograp
 The fluoroscopy time was 20.8 min, and 260 ml of iopamidol (Isovue®) was used. 
 Bilateral horizontal nystagmus was noted after the procedure, and an emergent CT scan of the head was unremarkable.
 The coronary angiography was performed and showed 99% stenosis of the (LAD). 
-In the same session, a ..... mm .... stent was successfully implanted in the LAD subtotal lesion without peri-procedural complications. 
+In the same session, a ..... mm drug-eluting coronary-artery stent was successfully implanted in the LAD subtotal lesion without peri-procedural complications. 
 Iopromide 120 cc (Ultravist® 370, Schering AG) was used throughout the the procedure. 
 After the procedure, the patient developed sudden onset of visual changes. There were no focal neurological deficits. 
 Laboratory values, blood gas analysis, and vital signs were checked again to determine the etiology of the patient's delirium.
 However, no abnormal findings were observed. 
-Haloperidol (2.5 mg) was administered intravenously as initial treatment, and continued orally thereafter. 
-Improvement was observed in the patient's state of delirium 24 hours after the onset of symptoms. 
 A diffusion magnetic resonance imaging, performed after the patient was stable, did not show any abnormalities. 
-Two days after the onset of agitation, the patient’s mental status was returned to normal, 
-although he had no recollection of his previous state of delirium.
+
